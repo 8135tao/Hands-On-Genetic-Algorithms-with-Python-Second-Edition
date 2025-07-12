@@ -8,14 +8,14 @@ deap==1.4.1
 Farama-Notifications==0.0.4
 fonttools==4.47.0
 frozenlist==1.4.1
-gensim==4.3.2
+gensim==4.3.3
 greenlet==3.0.3
 gymnasium==0.29.1
 idna==3.6
 joblib==1.3.2
 kiwisolver==1.4.5
 matplotlib==3.8.2
-multidict==6.0.4
+multidict==6.0.5
 neatpy==0.5.0
 networkx==3.2.1
 numpy==1.26.3
